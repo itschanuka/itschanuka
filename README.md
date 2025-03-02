@@ -7,13 +7,19 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+
+
 ---
+
+
 
 ## 🚀 About Me  
 🔹 Undergraduate Software Engineer at NIBM University with a strong foundation in software development and system design.  
 🔹 Passionate about building efficient, scalable, and user-centric applications.  
 🔹 Experienced in both frontend and backend development, with expertise in modern web technologies.  
 🔹 Continuously exploring emerging technologies to enhance problem-solving skills and innovation.
+
+
 
 ---
 
