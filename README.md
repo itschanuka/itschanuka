@@ -5,8 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=itschanuka&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-
-
 ---
 
 ## 🚀 About Me  
@@ -16,7 +14,6 @@
 🔹 Continuously exploring emerging technologies to enhance problem-solving skills and innovation.
 
 ---
-
 
 ## 🔗 Connect with Me  
 <p align="left">
@@ -48,10 +45,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
 </p>
-
-
-
-
 
 ### 💻 Backend Development  
 <p align="left">
@@ -93,9 +86,12 @@
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
-
 </p>
-  <img src="https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif" alt="Coding" width="350">
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" alt="Coding" width="350">
+</p>
+
 ### 🎨 Design & Multimedia  
 <p align="left">
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
