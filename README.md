@@ -93,8 +93,9 @@
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
+  <img src="https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif" alt="Coding" width="350">
 </p>
-<img align="right" alt="Coding" width="350" src="https://www.google.com/url?sa=i&url=https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif">
+
 ### 🎨 Design & Multimedia  
 <p align="left">
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
