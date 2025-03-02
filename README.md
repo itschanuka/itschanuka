@@ -31,6 +31,7 @@
 ---
 
 ## 🛠️ Technologies & Tools  
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### 🌐 Frontend Development  
 <p align="left">
@@ -48,7 +49,8 @@
   </a>
 </p>
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
 
 
 ### 💻 Backend Development  
@@ -92,7 +94,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
 </p>
-
+<img align="right" alt="Coding" width="350" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fallbestvpn%2Fcyber-security-gif">
 ### 🎨 Design & Multimedia  
 <p align="left">
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
