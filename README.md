@@ -77,6 +77,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
   </a>
 </p>
+<p align="center">
+  <img align="right" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" alt="Coding" width="350">
+  
+</p>
 
 ### 🛠️ Tools & Frameworks  
 <p align="left">
@@ -88,10 +92,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img align="right" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" alt="Coding" width="350">
-  
-</p>
+
 
 ### 🎨 Design & Multimedia  
 <p align="left">
