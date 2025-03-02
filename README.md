@@ -94,7 +94,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
 </p>
-<img align="right" alt="Coding" width="350" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fallbestvpn%2Fcyber-security-gif">
+<img align="right" alt="Coding" width="350" src="https://www.google.com/url?sa=i&url=https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif">
 ### 🎨 Design & Multimedia  
 <p align="left">
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
