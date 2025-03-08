@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Chanuka 👋</h1>
-<h3 align="center">A Passionate Software Engineer</h3>
+<h3 align="center">Undergraduate Software Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itschanuka&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
