@@ -9,13 +9,23 @@
 <br clear="both">
 
 <div align="center">
+
   <!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=itschanuka&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&cache_seconds=60" height="150" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=itschanuka&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&cache_seconds=3600&timestamp=2025" 
+    height="150" 
+    alt="GitHub Stats" 
+  />
 
+  <!-- Most Used Languages Card (shows at least 7) -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=itschanuka&layout=compact&langs_count=7&theme=dracula&card_width=350&hide_border=false&cache_seconds=3600&timestamp=2025" 
+    height="150" 
+    alt="Most Used Languages" 
+  />
 
-  <!-- Most Used Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itschanuka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&cache_seconds=1800&v=2" height="150" alt="Most Used Languages" />
 </div>
+
 
 
 ##
