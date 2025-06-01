@@ -9,7 +9,7 @@
 <br clear="both">
 
 <div align="center">
-
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <!-- GitHub Stats Card -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=itschanuka&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&cache_seconds=3600&timestamp=2025" 
