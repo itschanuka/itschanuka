@@ -1,157 +1,176 @@
-<h1 align="center">Hi, I'm Chanuka Keerthisingha</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Engineer focused on CRM, SaaS, dashboards, and business workflow systems
-</h3>
+```
+ ██████╗██╗  ██╗ █████╗ ███╗   ██╗██╗   ██╗██╗  ██╗ █████╗
+██╔════╝██║  ██║██╔══██╗████╗  ██║██║   ██║██║ ██╔╝██╔══██╗
+██║     ███████║███████║██╔██╗ ██║██║   ██║█████╔╝ ███████║
+██║     ██╔══██║██╔══██║██║╚██╗██║██║   ██║██╔═██╗ ██╔══██║
+╚██████╗██║  ██║██║  ██║██║ ╚████║╚██████╔╝██║  ██╗██║  ██║
+ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-<p align="center">
-  <a href="https://itschanuka.vercel.app">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/chanuka-keerthisingha">LinkedIn</a> •
-  <a href="mailto:itschanuka@gmail.com">Email</a>
-</p>
+### Full Stack Engineer · CRM · SaaS · Business Systems
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itschanuka&style=flat-square&label=Profile%20Views&color=0ea5e9" alt="Profile Views" />
-</p>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-itschanuka.vercel.app-0f172a?style=for-the-badge&logoColor=white)](https://itschanuka.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chanuka_Keerthisingha-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanuka-keerthisingha)
+[![Email](https://img.shields.io/badge/Email-itschanuka@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itschanuka@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=itschanuka&style=for-the-badge&label=PROFILE+VIEWS&color=0ea5e9)](https://github.com/itschanuka)
 
----
-
-## About Me
-
-I’m a Software Engineering student and Full Stack Engineer from Sri Lanka with project-based experience designing and building business systems, SaaS-style platforms, CRM workflows, admin dashboards, and internal tools.
-
-My work focuses on turning real business operations into structured software systems with clear workflows, user roles, dashboards, reports, data models, and deployment-ready applications.
-
-I mainly work with:
-
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
-- **Backend:** Node.js, Express.js, REST APIs
-- **Database:** Supabase PostgreSQL, Firebase, MongoDB, MySQL
-- **Auth & Security:** Supabase Auth, Firebase Auth, Google OAuth, RBAC, MFA
-- **Deployment:** Vercel, Render, Netlify, Firebase Hosting
-- **Tools:** Git, GitHub, Postman, Figma, VS Code
+</div>
 
 ---
 
-## Featured Projects
+## `$ whoami`
 
-### Dealership Management System
+> **Full Stack Engineer** from 🇱🇰 Sri Lanka — I turn real business operations into structured, deployable software systems.
 
-A full-stack dealership management platform designed to replace manual vehicle dealership operations with a structured business system.
+With **3 years** of project-based and freelance experience, I specialize in building end-to-end platforms — from database schema and REST APIs to protected dashboards, user roles, and cloud deployment. My work lives at the intersection of **engineering precision** and **business logic**.
 
-**Stack:** Next.js, TypeScript, Node.js, Express, Supabase PostgreSQL, Tailwind CSS, Vercel, Render
-
-**Key areas covered:**
-
-- Inventory management with vehicle statuses and stock-aging tracking
-- CRM lead pipeline with follow-up tracking
-- Sales and deal management with payments, finance tracking, and trade-ins
-- Customer and employee management
-- Role-based access control for Admin, Manager, Salesperson, and Accountant
-- Commission calculation engine
-- Reports, exports, audit logs, trash recovery, and backup workflows
-- MFA and authentication workflows
-
-**Demo:** [dms-web-chi.vercel.app](https://dms-web-chi.vercel.app)
+```
+What I bring to a project:
+  ├── Requirements → System Design → Database Architecture
+  ├── API Layer → Authentication → Role-Based Access Control
+  ├── Dashboard UI → Business Workflows → Reporting & Exports
+  └── Deployment → Documentation → Maintenance Handoff
+```
 
 ---
 
-### TradeTrack — Multi-Tenant SaaS Demo
+## `$ tech --stack`
 
-A SaaS workflow system for solo contractors and small service operators to manage clients, jobs, quotes, invoices, reminders, payments, documents, and reports.
+<div align="center">
 
-**Stack:** Next.js, TypeScript, Node.js, Express, Supabase PostgreSQL, Tailwind CSS, Vercel, Render
+| Layer | Technologies |
+|---|---|
+| **Frontend** | React · Next.js · TypeScript · JavaScript ES6+ · Tailwind CSS · Framer Motion |
+| **Backend** | Node.js · Express.js · PHP · REST API Design · Middleware · Validation |
+| **Database** | Supabase PostgreSQL · MySQL · MongoDB · Firebase Firestore |
+| **Auth & Security** | Supabase Auth · Firebase Auth · Google OAuth · RBAC · MFA |
+| **Deployment** | Vercel · Render · Netlify · Firebase Hosting · Supabase Storage |
+| **Tools** | Git · GitHub · Postman · Figma · Notion · Draw.io · VS Code |
 
-**Core workflow:**
-
-Client to quote to job to invoice to reminder to payment.
-
-**Key areas covered:**
-
-- Multi-tenant SaaS-style architecture
-- Client, job, quote, invoice, payment, and document workflows
-- Dashboard views for outstanding payments and daily actions
-- MVP scope planning and SaaS workflow mapping
-- Business profile, settings, reports, reminders, and export-ready logic
+</div>
 
 ---
 
-### Additional Projects
+## `$ projects --featured`
 
-**Construction Project Management System**  
-A business platform for task assignment, contractor management, budget tracking, milestone reporting, RBAC, and project dashboards.
+### 🚗 Auto Prime — Dealership Management System
+> **The flagship.** A 13-module platform built to replace manual dealership operations entirely.
 
-**Tuition Management Android App**  
-Android app built with Kotlin and Firebase for QR-based attendance, assignment tracking, and instructor dashboards.
+[![Live Demo](https://img.shields.io/badge/Live_Demo-dms--web--chi.vercel.app-22c55e?style=flat-square&logo=vercel&logoColor=white)](https://dms-web-chi.vercel.app)
+![Stack](https://img.shields.io/badge/Stack-Next.js_·_TypeScript_·_Node.js_·_Supabase-3b82f6?style=flat-square)
 
-**Elite Beauty Salon Website & Booking Flow**  
-Responsive business website with WhatsApp booking integration and mobile-first service presentation.
-
-**Smart Parcel Box IoT System**  
-ESP8266-based smart parcel box with Firebase real-time sync, remote lock/unlock, and sensor-based delivery verification.
-
----
-
-## Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="34" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="34" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="34" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="34" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="34" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="34" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="34" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="34" alt="Postman" />
-</p>
+```
+Modules covered:
+  ├── 🏠  Public Website & Marketing Pages
+  ├── 🔐  Authentication (MFA, RBAC — Admin / Manager / Salesperson / Accountant)
+  ├── 🚘  Inventory Management (stock aging, vehicle statuses, filtering)
+  ├── 📋  CRM Lead Pipeline (lead capture, follow-up tracking, conversion)
+  ├── 💰  Sales & Deal Workflows (reservations, trade-ins, finance status)
+  ├── 💳  Payment Tracking (full/partial, bank finance, profit calculation)
+  ├── 👥  Customer & Employee Management (blacklisting, profiles)
+  ├── 📊  Commission Engine (automated calculation by role/deal)
+  ├── 📈  Reports & Exports (Excel, CSV, PDF, DOCX)
+  ├── 🗂️  Audit Logs (append-only, tamper-evident activity trail)
+  ├── 🗑️  Soft Delete & Trash Recovery
+  └── 💾  Backup & Restore Workflows
+```
 
 ---
 
-## What I Build
+### 🔧 TradeTrack — Multi-Tenant SaaS Demo
+> A full-stack SaaS prototype for solo contractors — replacing WhatsApp notes, scattered PDFs, and spreadsheets with a single structured system.
 
-- CRM and business management systems
-- SaaS MVPs and admin dashboards
-- Inventory, sales, finance, and workflow platforms
-- RBAC-based internal tools
-- Reporting dashboards and export workflows
-- Full-stack systems with authentication, database design, APIs, and deployment
+![Stack](https://img.shields.io/badge/Stack-Next.js_·_TypeScript_·_Node.js_·_Supabase-3b82f6?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Multi--Tenant_SaaS-8b5cf6?style=flat-square)
 
----
+```
+Core workflow:
+  Client → Quote → Job → Invoice → Reminder → Payment
 
-## GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=itschanuka&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=false" 
-    height="160" 
-    alt="GitHub Stats" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=itschanuka&layout=compact&langs_count=8&theme=github_dark&hide_border=false" 
-    height="160" 
-    alt="Top Languages" 
-  />
-</p>
+Features:
+  ├── 🏢  Multi-tenant SaaS architecture with isolated tenant data
+  ├── 👤  Client & job management with conversion workflows
+  ├── 🧾  Quote-to-job and job-to-invoice conversion flows
+  ├── 💸  Invoice & partial payment tracking
+  ├── 📅  Reminder rules and daily action dashboard
+  ├── 📁  Document folders and file management
+  ├── ⚙️  Business profile, settings, onboarding flow
+  └── 📤  Report exports and plan/subscription logic
+```
 
 ---
 
-## Contact
+## `$ projects --additional`
 
-<p align="left">
-  <a href="mailto:itschanuka@gmail.com">
-    <img src="https://img.shields.io/badge/Email-itschanuka%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/chanuka-keerthisingha">
-    <img src="https://img.shields.io/badge/LinkedIn-Chanuka%20Keerthisingha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://itschanuka.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-itschanuka.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+<div align="center">
+
+| Project | Stack | Highlights |
+|---|---|---|
+| **🏗️ Construction PM System** | React · Node.js · PostgreSQL | Task assignment, budget tracking, milestone reporting, RBAC dashboards |
+| **💇 Elite Beauty Salon Website** | React · Vite · Tailwind · Netlify | Mobile-first service site with WhatsApp booking integration |
+| **📱 Tuition Management App** | Kotlin · Android · Firebase | QR attendance, assignment tracking, instructor dashboards |
+| **📦 Smart Parcel Box (IoT)** | ESP8266 · Arduino · Firebase | Remote lock/unlock, delivery verification, sensor-based state sync |
+
+</div>
+
+---
+
+## `$ stats --github`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itschanuka&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itschanuka&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8" height="165" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=itschanuka&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9" height="165" alt="Streak Stats" />
+</div>
+
+---
+
+## `$ skills --delivery`
+
+```javascript
+const whatIDeliver = {
+  ownership:    "End-to-end — from architecture to deployment to handoff docs",
+  systemDesign: ["CRM pipelines", "inventory systems", "SaaS multi-tenancy",
+                 "finance/payment workflows", "RBAC", "audit logs", "backups"],
+  communication: "Can discuss system behavior, DB relationships, edge cases,
+                  and API flow clearly with both technical and non-technical teams",
+  documentation: ["module breakdowns", "data field specs", "workflow rules",
+                  "test conditions", "deployment checklists", "user handoff notes"]
+};
+```
+
+---
+
+## `$ education`
+
+- 📚 **Higher National Diploma in Software Engineering** — NIBM, Sri Lanka *(2024 – Present)*
+- 🎓 **Diploma in Software Engineering** — NIBM, Sri Lanka *(2023 – 2024)*
+- 🤖 **Career Essentials in Generative AI** — Microsoft & LinkedIn *(2024)*
+
+---
+
+## `$ availability`
+
+```
+Status:     ✅ Open to opportunities
+Preferred:  Remote · Contract · Hybrid · Startup · Product-based teams
+Languages:  English (Professional) · Sinhala (Native)
+Location:   Sri Lanka 🇱🇰  (open to remote-first roles globally)
+```
+
+---
+
+<div align="center">
+
+**Let's build something serious.**
+
+[![Email](https://img.shields.io/badge/itschanuka@gmail.com-Send_a_message-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itschanuka@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanuka-keerthisingha)
+[![Portfolio](https://img.shields.io/badge/View-Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://itschanuka.vercel.app)
+
+</div>
