@@ -1,94 +1,157 @@
-<h3 align="center">Hi 👋! My name is Chanuka and I'm a Software Engineering student from Sri Lanka.</h3>
+<h1 align="center">Hi, I'm Chanuka Keerthisingha</h1>
+
+<h3 align="center">
+Full Stack Engineer focused on CRM, SaaS, dashboards, and business workflow systems
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itschanuka&style=flat-square&label=Visitors&color=87CEEB" alt="Profile Views" />
-  <br/>
-  <b>💙 You're awesome for visiting my profile! ✨</b>
+  <a href="https://itschanuka.vercel.app">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/chanuka-keerthisingha">LinkedIn</a> •
+  <a href="mailto:itschanuka@gmail.com">Email</a>
 </p>
 
-<br clear="both">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itschanuka&style=flat-square&label=Profile%20Views&color=0ea5e9" alt="Profile Views" />
+</p>
 
-<div align="center">
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <!-- GitHub Stats Card -->
+---
+
+## About Me
+
+I’m a Software Engineering student and Full Stack Engineer from Sri Lanka with project-based experience designing and building business systems, SaaS-style platforms, CRM workflows, admin dashboards, and internal tools.
+
+My work focuses on turning real business operations into structured software systems with clear workflows, user roles, dashboards, reports, data models, and deployment-ready applications.
+
+I mainly work with:
+
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express.js, REST APIs
+- **Database:** Supabase PostgreSQL, Firebase, MongoDB, MySQL
+- **Auth & Security:** Supabase Auth, Firebase Auth, Google OAuth, RBAC, MFA
+- **Deployment:** Vercel, Render, Netlify, Firebase Hosting
+- **Tools:** Git, GitHub, Postman, Figma, VS Code
+
+---
+
+## Featured Projects
+
+### Dealership Management System
+
+A full-stack dealership management platform designed to replace manual vehicle dealership operations with a structured business system.
+
+**Stack:** Next.js, TypeScript, Node.js, Express, Supabase PostgreSQL, Tailwind CSS, Vercel, Render
+
+**Key areas covered:**
+
+- Inventory management with vehicle statuses and stock-aging tracking
+- CRM lead pipeline with follow-up tracking
+- Sales and deal management with payments, finance tracking, and trade-ins
+- Customer and employee management
+- Role-based access control for Admin, Manager, Salesperson, and Accountant
+- Commission calculation engine
+- Reports, exports, audit logs, trash recovery, and backup workflows
+- MFA and authentication workflows
+
+**Demo:** [dms-web-chi.vercel.app](https://dms-web-chi.vercel.app)
+
+---
+
+### TradeTrack — Multi-Tenant SaaS Demo
+
+A SaaS workflow system for solo contractors and small service operators to manage clients, jobs, quotes, invoices, reminders, payments, documents, and reports.
+
+**Stack:** Next.js, TypeScript, Node.js, Express, Supabase PostgreSQL, Tailwind CSS, Vercel, Render
+
+**Core workflow:**
+
+Client to quote to job to invoice to reminder to payment.
+
+**Key areas covered:**
+
+- Multi-tenant SaaS-style architecture
+- Client, job, quote, invoice, payment, and document workflows
+- Dashboard views for outstanding payments and daily actions
+- MVP scope planning and SaaS workflow mapping
+- Business profile, settings, reports, reminders, and export-ready logic
+
+---
+
+### Additional Projects
+
+**Construction Project Management System**  
+A business platform for task assignment, contractor management, budget tracking, milestone reporting, RBAC, and project dashboards.
+
+**Tuition Management Android App**  
+Android app built with Kotlin and Firebase for QR-based attendance, assignment tracking, and instructor dashboards.
+
+**Elite Beauty Salon Website & Booking Flow**  
+Responsive business website with WhatsApp booking integration and mobile-first service presentation.
+
+**Smart Parcel Box IoT System**  
+ESP8266-based smart parcel box with Firebase real-time sync, remote lock/unlock, and sensor-based delivery verification.
+
+---
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="34" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="34" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="34" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="34" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="34" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="34" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="34" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="34" alt="Postman" />
+</p>
+
+---
+
+## What I Build
+
+- CRM and business management systems
+- SaaS MVPs and admin dashboards
+- Inventory, sales, finance, and workflow platforms
+- RBAC-based internal tools
+- Reporting dashboards and export workflows
+- Full-stack systems with authentication, database design, APIs, and deployment
+
+---
+
+## GitHub Stats
+
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=itschanuka&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&cache_seconds=3600&timestamp=2025" 
-    height="150" 
+    src="https://github-readme-stats.vercel.app/api?username=itschanuka&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=false" 
+    height="160" 
     alt="GitHub Stats" 
   />
-
-  <!-- Most Used Languages Card (shows at least 7) -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=itschanuka&layout=compact&langs_count=7&theme=dracula&card_width=350&hide_border=false&cache_seconds=3600&timestamp=2025" 
-    height="150" 
-    alt="Most Used Languages" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=itschanuka&layout=compact&langs_count=8&theme=github_dark&hide_border=false" 
+    height="160" 
+    alt="Top Languages" 
   />
+</p>
 
-</div>
+---
 
+## Contact
 
-
-##
-
-<br clear="both">
-
-<img align="right" height="250" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"  />
-
-###
-
-<div align="left">
-  <h4>💻 Programming Languages</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo" />
-</div>
-
-<div align="left">
-  <h4>🌐 Web Technologies</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-</div>
-
-<div align="left">
-  <h4>🛠️ Tools & IDEs</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo" />
-</div>
-
-<div align="left">
-  <h4>📱 Mobile & Backend</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo" />
-</div>
-
-<br clear="both">
-
-<div align="left">
-  <h4>📬 Connect with me</h4>
-  <a href="https://www.instagram.com/itschanuka/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+<p align="left">
+  <a href="mailto:itschanuka@gmail.com">
+    <img src="https://img.shields.io/badge/Email-itschanuka%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="mailto:itschanuka@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/chanuka-keerthisingha">
+    <img src="https://img.shields.io/badge/LinkedIn-Chanuka%20Keerthisingha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.linkedin.com/in/chanuka-keerthisingha" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://itschanuka.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-itschanuka.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/itschanuka/itschanuka/output/snake.svg" alt="Snake animation" />
-
-###
+</p>
