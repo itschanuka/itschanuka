@@ -144,7 +144,7 @@ Client → Quote → Job → Invoice → Reminder → Payment
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=itschanuka&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&border_radius=10" height="170" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=itschanuka&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&border_radius=10" height="170" alt="GitHub Streak" />
 
 </div>
 
