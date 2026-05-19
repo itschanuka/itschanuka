@@ -83,14 +83,14 @@ A **13-module** full-stack dealership platform built to replace manual vehicle d
 
 **Modules:**
 - 🔐 Auth, MFA & RBAC *(Admin / Manager / Salesperson / Accountant)*
-- 🚘 Inventory with stock-aging alerts
+- 🚘 Inventory with stock-aging alerts *(30/60/90+ days)*
 - 📋 CRM lead pipeline & follow-up tracking
-- 💰 Deal workflows — reservations, trade-ins, finance
-- 💳 Multi-entry payments & profit calculation
-- 📊 Commission engine (automated by role)
+- 💰 Deal workflows — reservations, trade-ins, bank finance
+- 💳 Multi-entry payments & automatic profit calculation
+- 📊 Commission engine *(fixed, % of sale, % of profit)*
 - 📈 Report exports *(Excel, CSV, PDF, DOCX)*
-- 🗂️ Append-only audit logs & soft delete recovery
-- 💾 Backup & restore workflows
+- 🗂️ Append-only audit logs with before/after field snapshots
+- 💾 Backup & restore workflows with soft-delete recovery
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-dms--web--chi.vercel.app-22c55e?style=for-the-badge)](https://dms-web-chi.vercel.app)
 
@@ -127,10 +127,11 @@ Client → Quote → Job → Invoice → Reminder → Payment
 
 | Project | Stack | Description |
 |---|---|---|
-| 🏗️ **Construction PM System** | React · Node.js · PostgreSQL | Task assignment, contractor management, budget tracking, milestone reporting & RBAC dashboards |
-| 💇 **Elite Beauty Salon Website** | React · Vite · Tailwind · Netlify | Mobile-first service site with WhatsApp booking integration & conversion-focused layout |
-| 📱 **Tuition Management App** | Kotlin · Android · Firebase | QR-based attendance, assignment tracking, cloud sync & instructor dashboards |
+| 🏗️ **Construction PM System** | React · Node.js · PostgreSQL | Task assignment, contractor management, budget tracking, milestone reporting & RBAC dashboards across all active sites |
+| 💇 **Elite Beauty Salon Website** | React · Vite · Tailwind · WhatsApp Business API · Netlify | Mobile-first service site with WhatsApp booking integration, sub-2s load performance & conversion-focused layout |
+| 📱 **Tuition Management App** | Kotlin · Android · Firebase | QR-based attendance, assignment tracking, cloud sync & real-time instructor dashboards |
 | 📦 **Smart Parcel Box (IoT)** | ESP8266 · Arduino · Firebase | Remote lock/unlock, delivery verification & sensor-based state sync via Firebase Realtime DB |
+| 🌐 **Developer Portfolio Platform** | React · Node.js · Express · MongoDB · Vercel | Full-stack personal platform with Express backend, MongoDB data layer & end-to-end API integration |
 
 ---
 
