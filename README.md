@@ -138,9 +138,9 @@ Client → Quote → Job → Invoice → Reminder → Payment
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=itschanuka&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&border_radius=10" height="170" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itschanuka&theme=github_dark" height="170" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=itschanuka&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8&border_radius=10" height="170" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itschanuka&theme=github_dark" height="170" alt="Top Languages" />
 
 <br/>
 
