@@ -134,13 +134,34 @@ Client → Quote → Job → Invoice → Reminder → Payment
 
 ---
 
-## 📊 GitHub Stats
+## 📊 By The Numbers
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itschanuka&theme=github_dark" height="170" alt="GitHub Stats" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itschanuka&theme=github_dark" height="170" alt="Top Languages" />
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Projects_Built-12+-0ea5e9?style=for-the-badge&labelColor=0d1117" />
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Years_Experience-3+-0ea5e9?style=for-the-badge&labelColor=0d1117" />
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Live_Products-2-0ea5e9?style=for-the-badge&labelColor=0d1117" />
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Modules_Shipped-13+-0ea5e9?style=for-the-badge&labelColor=0d1117" />
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Primary_Stack-Next.js-0ea5e9?style=for-the-badge&labelColor=0d1117" />
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Focus-Business_Systems-0ea5e9?style=for-the-badge&labelColor=0d1117" />
+</td>
+</tr>
+</table>
 
 <br/>
 
